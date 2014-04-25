@@ -1,6 +1,8 @@
 Sick Beard
 =====
 
+####THIS IS JUST A FORK MADE FOR MY OWN PEACE OF MIND, PLEASE USE THE REAL, ECHEL0N BRANCH FOUND AT: http://github.com/echel0n/SickBeard-TVRage
+
 *SickBeard-TVRage  is currently in beta release stage. There may be severe bugs in it and at any given time it may not work at all.*
 
 Sick Beard-TVRage is a PVR for torrent and newsgroup users. It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them, and optionally generates metadata for them. It retrieves show information from theTVDB.com and TVRage.com.
